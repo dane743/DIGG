@@ -1,7 +1,7 @@
 # This is a simple test to check that people can access this file from all locations
 
 # Theo (x)
-# Fredrik ()
+# Fredrik (x)
 # Hosam ()
 # Nikki ()
 # Daniel ()
