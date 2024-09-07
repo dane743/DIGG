@@ -2,7 +2,7 @@
 
 # Theo (x)
 # Fredrik (x)
-# Hosam ()
+# Hosam (X)
 # Nikki (x)
 # Daniel ()
 
